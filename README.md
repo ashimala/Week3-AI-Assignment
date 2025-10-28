@@ -14,11 +14,6 @@ AI_Tools_Assignment/
 │ ├── 02_cnn_tensorflow.ipynb
 │ ├── 03_transfer_pytorch.ipynb
 │ └── 04_spacy_ner.ipynb
-├── screenshots/
-│ ├── sklearn_confusion_matrix.png
-│ ├── tensorflow_accuracy_graph.png
-│ ├── pytorch_transfer_output.png
-│ └── spacy_ner_visualization.png
 ├── report/
 │ └── AI_Tools_Report.pdf
 
